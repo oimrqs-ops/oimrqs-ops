@@ -1,8 +1,8 @@
 # Henrique M. / OIMRQS Ops
 
-Focused technical execution for automation, data workflows, CRM/RevOps import QA, checkout QA, Agent Ops, and web ops.
+Focused technical execution for automation, data workflows, CRM/RevOps import QA, dashboard bugfixes, checkout QA, Agent Ops, and web ops.
 
-I help teams turn blocked technical workflows into reviewable deliverables: Python/JavaScript automation, Apps Script and Google Sheets workflows, CSV/JSON cleanup, CRM import QA, API health checks, frontend debugging, browser/Playwright validation, allowed public-data extraction, and practical handoffs.
+I help teams turn blocked technical workflows into reviewable deliverables: Python/JavaScript automation, Apps Script and Google Sheets workflows, CSV/JSON cleanup, CRM import QA, API health checks, dashboard bugfixes, frontend debugging, browser/Playwright validation, allowed public-data extraction, and practical handoffs.
 
 **Portfolio:** https://oimrqs-ops.x9kqz.uk/
 
@@ -12,7 +12,7 @@ I help teams turn blocked technical workflows into reviewable deliverables: Pyth
 - Python/JavaScript scripts, adapters, and data cleanup
 - CRM/RevOps import QA for HubSpot, Salesforce, Pipedrive, Airtable, and custom admin imports
 - Google Sheets, Apps Script, CSV, JSON, imports, and exports
-- frontend/dashboard bugs with browser validation
+- frontend/dashboard bugs, responsive regressions, chart/table issues, and browser validation
 - QA smoke passes, issue reproduction, and concise reports
 - AI coding workflow / Agent Ops audits for prompts, AGENTS.md, runbooks, and validation gates
 - WordPress, WooCommerce, Shopify, Webflow, and static-site technical fixes
@@ -28,6 +28,7 @@ I help teams turn blocked technical workflows into reviewable deliverables: Pyth
 - [public-data-extractor-safe](https://github.com/oimrqs-ops/public-data-extractor-safe) - safe public/exported HTML extraction with validation, CSV/JSON outputs, rejects, tests, and handoff notes.
 - [api-health-check-kit](https://github.com/oimrqs-ops/api-health-check-kit) - dependency-free Python API health checks with JSON plans, timing/status assertions, Markdown/JSON/CSV reports, fixture server, tests, and handoff notes.
 - [crm-import-qa-kit](https://github.com/oimrqs-ops/crm-import-qa-kit) - CRM/RevOps CSV import QA with required-field checks, duplicate keys, stage mapping, rejects, JSON summary, tests, and handoff notes.
+- [dashboard-bugfix-playbook](https://github.com/oimrqs-ops/dashboard-bugfix-playbook) - dependency-free dashboard audit with before/after fixtures, responsive checks, table/chart handoff notes, and Node tests.
 
 ## Proof Format
 
@@ -36,6 +37,7 @@ These are public, sanitized examples of the kind of handoff I aim to deliver:
 - QA/debug report: https://oimrqs-ops.x9kqz.uk/proof/qa-report.md
 - Apps Script sheet sync: https://oimrqs-ops.x9kqz.uk/proof/sheet-sync.gs
 - CRM import QA: https://oimrqs-ops.x9kqz.uk/proof/crm-import-qa.md
+- Dashboard bugfix audit: https://oimrqs-ops.x9kqz.uk/proof/dashboard-bugfix.md
 - WordPress/WooCommerce triage: https://oimrqs-ops.x9kqz.uk/proof/wordpress-woocommerce-triage.md
 - Shopify checkout QA: https://oimrqs-ops.x9kqz.uk/proof/shopify-checkout-qa.md
 - FastAPI/Playwright adapter: https://oimrqs-ops.x9kqz.uk/proof/adapter.py
