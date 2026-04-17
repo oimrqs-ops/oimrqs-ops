@@ -1,24 +1,40 @@
 # Henrique M. / OIMRQS Ops
 
-I turn blocked technical workflows into reviewable deliverables: Python/JavaScript automation, Apps Script and Google Sheets workflows, CSV/JSON cleanup, frontend debugging, browser/Playwright checks, public-data extraction when allowed, and practical handoffs.
+Focused technical execution for automation, data cleanup, QA, and web ops.
+
+I help teams turn blocked workflows into reviewable deliverables: Python/JavaScript automation, Apps Script and Google Sheets workflows, CSV/JSON cleanup, frontend debugging, browser/Playwright checks, public-data extraction when allowed, and practical handoffs.
 
 **Portfolio:** https://oimrqs-ops.x9kqz.uk/
 
-Good fit:
+## What I Can Take Over
+
 - reproducible bugs with clear expected behavior
-- automation scripts and data cleanup
+- automation scripts, adapters, and data cleanup
 - API, CSV, JSON, Google Sheets, and Apps Script workflows
 - frontend/dashboard bugs with browser validation
+- QA smoke passes with concise issue reports
 - focused PRs with tests or validation notes
 - public-data extraction when the target site allows automated access
 
-How I work:
-- keep the first pass focused and reviewable
+## Proof Format
+
+These are public, sanitized examples of the kind of handoff I aim to deliver:
+
+- QA/debug report: https://oimrqs-ops.x9kqz.uk/proof/qa-report.md
+- Apps Script sheet sync: https://oimrqs-ops.x9kqz.uk/proof/sheet-sync.gs
+- FastAPI/Playwright adapter: https://oimrqs-ops.x9kqz.uk/proof/adapter.py
+- JavaScript calculator/embed: https://oimrqs-ops.x9kqz.uk/proof/calculator.js
+- Data cleanup handoff: https://oimrqs-ops.x9kqz.uk/proof/cleanup.txt
+
+## Working Style
+
+- first pass is focused, reviewable, and usually structured for a 24h delivery slice
 - prefer sample data, staging URLs, exported files, or minimal reproductions
 - deliver a working script, patch, workbook, or concise report with validation steps
 - avoid unnecessary production credentials
 - leave a short handoff note: input, task, deliverable, check, and remaining risk
 
-Links:
+## Links
+
 - Website: https://oimrqs-ops.x9kqz.uk/
 - Contra: https://contra.com/oimrqs_ops_6jbkiwcu
