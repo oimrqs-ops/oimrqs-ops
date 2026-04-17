@@ -23,6 +23,7 @@ I help teams turn blocked workflows into reviewable deliverables: Python/JavaScr
 - [apps-script-sheet-sync](https://github.com/oimrqs-ops/apps-script-sheet-sync) - Google Sheets Apps Script sync with duplicate checks, status normalization, and operator logs.
 - [embed-calculator-widget](https://github.com/oimrqs-ops/embed-calculator-widget) - vanilla JavaScript calculator widget with accessible embed markup and tested pricing logic.
 - [csv-json-cleanup-pipeline](https://github.com/oimrqs-ops/csv-json-cleanup-pipeline) - Python CSV/JSON cleanup pipeline with validation, rejects, dedupe, tests, and Markdown handoff report.
+- [public-data-extractor-safe](https://github.com/oimrqs-ops/public-data-extractor-safe) - safe public/exported HTML extraction with validation, CSV/JSON outputs, rejects, tests, and handoff notes.
 
 ## Proof Format
 
