@@ -1,21 +1,22 @@
 # Henrique M. / OIMRQS Ops
 
-Focused technical execution for automation, data cleanup, QA, and web ops.
+Focused technical execution for automation, data workflows, QA, Agent Ops, and web ops.
 
-I help teams turn blocked workflows into reviewable deliverables: Python/JavaScript automation, Apps Script and Google Sheets workflows, CSV/JSON cleanup, frontend debugging, browser/Playwright checks, public-data extraction when allowed, and practical handoffs.
+I help teams turn blocked technical workflows into reviewable deliverables: Python/JavaScript automation, Apps Script and Google Sheets workflows, CSV/JSON cleanup, API health checks, frontend debugging, browser/Playwright validation, allowed public-data extraction, and practical handoffs.
 
 **Portfolio:** https://oimrqs-ops.x9kqz.uk/
 
 ## What I Can Take Over
 
-- reproducible bugs with clear expected behavior
-- automation scripts, adapters, and data cleanup
-- API, CSV, JSON, Google Sheets, and Apps Script workflows
+- workflow/API bugs with clear expected behavior
+- Python/JavaScript scripts, adapters, and data cleanup
+- Google Sheets, Apps Script, CSV, JSON, imports, and exports
 - frontend/dashboard bugs with browser validation
-- QA smoke passes with concise issue reports
-- focused PRs with tests or validation notes
-- public-data extraction when the target site allows automated access
-
+- QA smoke passes, issue reproduction, and concise reports
+- AI coding workflow / Agent Ops audits for prompts, AGENTS.md, runbooks, and validation gates
+- WordPress, Shopify, Webflow, and static-site technical fixes
+- embeddable JavaScript widgets, calculators, and browser workflow helpers
+- public-data extraction when normal automated access is allowed
 
 ## Public Project Samples
 
@@ -35,12 +36,14 @@ These are public, sanitized examples of the kind of handoff I aim to deliver:
 - FastAPI/Playwright adapter: https://oimrqs-ops.x9kqz.uk/proof/adapter.py
 - JavaScript calculator/embed: https://oimrqs-ops.x9kqz.uk/proof/calculator.js
 - Data cleanup handoff: https://oimrqs-ops.x9kqz.uk/proof/cleanup.txt
+- Agent Ops audit: https://oimrqs-ops.x9kqz.uk/proof/agent-ops-audit.md
 
 ## Working Style
 
-- first pass is focused, reviewable, and usually structured for a 24h delivery slice
-- prefer sample data, staging URLs, exported files, or minimal reproductions
-- deliver a working script, patch, workbook, or concise report with validation steps
+- first pass is focused, reviewable, and usually structured as a 1-day delivery slice
+- if the full project is larger, I start with the highest-leverage diagnostic, fix, or handoff artifact
+- prefer sample data, staging URLs, exported files, screenshots, logs, or minimal reproductions
+- deliver a working script, patch, workbook, prototype, or concise report with validation steps
 - avoid unnecessary production credentials
 - leave a short handoff note: input, task, deliverable, check, and remaining risk
 
