@@ -22,6 +22,7 @@ I help teams turn blocked workflows into reviewable deliverables: Python/JavaScr
 - [qa-smoke-report-kit](https://github.com/oimrqs-ops/qa-smoke-report-kit) - browser QA smoke checks, console/error capture, overflow checks, screenshots, and Markdown handoff reports.
 - [apps-script-sheet-sync](https://github.com/oimrqs-ops/apps-script-sheet-sync) - Google Sheets Apps Script sync with duplicate checks, status normalization, and operator logs.
 - [embed-calculator-widget](https://github.com/oimrqs-ops/embed-calculator-widget) - vanilla JavaScript calculator widget with accessible embed markup and tested pricing logic.
+- [csv-json-cleanup-pipeline](https://github.com/oimrqs-ops/csv-json-cleanup-pipeline) - Python CSV/JSON cleanup pipeline with validation, rejects, dedupe, tests, and Markdown handoff report.
 
 ## Proof Format
 
