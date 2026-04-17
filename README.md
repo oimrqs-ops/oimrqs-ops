@@ -24,6 +24,7 @@ I help teams turn blocked workflows into reviewable deliverables: Python/JavaScr
 - [embed-calculator-widget](https://github.com/oimrqs-ops/embed-calculator-widget) - vanilla JavaScript calculator widget with accessible embed markup and tested pricing logic.
 - [csv-json-cleanup-pipeline](https://github.com/oimrqs-ops/csv-json-cleanup-pipeline) - Python CSV/JSON cleanup pipeline with validation, rejects, dedupe, tests, and Markdown handoff report.
 - [public-data-extractor-safe](https://github.com/oimrqs-ops/public-data-extractor-safe) - safe public/exported HTML extraction with validation, CSV/JSON outputs, rejects, tests, and handoff notes.
+- [api-health-check-kit](https://github.com/oimrqs-ops/api-health-check-kit) - dependency-free Python API health checks with JSON plans, timing/status assertions, Markdown/JSON/CSV reports, fixture server, tests, and handoff notes.
 
 ## Proof Format
 
