@@ -6,6 +6,13 @@ I help teams turn blocked technical workflows into reviewable deliverables: Pyth
 
 **Portfolio:** https://oimrqs-ops.x9kqz.uk/
 
+**Best public routes:**
+- Portfolio route: https://oimrqs-ops.x9kqz.uk/portfolio/
+- Proof library: https://oimrqs-ops.x9kqz.uk/proof/
+- Public CV: https://oimrqs-ops.x9kqz.uk/cv/
+- Workana profile: https://www.workana.com/freelancer/90ea65ae4695e805437d668165e4195a
+- PeoplePerHour profile: https://www.peopleperhour.com/freelancer/technology-programming/henrique-marques-automation-qa-workflow-specialist-zxvaxmjm
+
 ## What I Can Take Over
 
 - workflow/API bugs with clear expected behavior
@@ -57,4 +64,9 @@ These are public, sanitized examples of the kind of handoff I aim to deliver:
 ## Links
 
 - Website: https://oimrqs-ops.x9kqz.uk/
+- Portfolio route: https://oimrqs-ops.x9kqz.uk/portfolio/
+- Proof library: https://oimrqs-ops.x9kqz.uk/proof/
+- Public CV: https://oimrqs-ops.x9kqz.uk/cv/
+- Workana: https://www.workana.com/freelancer/90ea65ae4695e805437d668165e4195a
+- PeoplePerHour: https://www.peopleperhour.com/freelancer/technology-programming/henrique-marques-automation-qa-workflow-specialist-zxvaxmjm
 - Contra: https://contra.com/oimrqs_ops_6jbkiwcu
