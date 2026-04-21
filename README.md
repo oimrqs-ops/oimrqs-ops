@@ -36,7 +36,7 @@ Portfolio: https://oimrqs-ops.x9kqz.uk/
 - crm-import-qa-kit - CRM/RevOps CSV import QA with required-field checks, duplicate keys, stage mapping, rejects, JSON summary, tests, and handoff notes.
 - dashboard-bugfix-playbook - dependency-free dashboard audit with before/after fixtures, responsive checks, table/chart handoff notes, and Node tests.
 - website-lead-recovery-check-kit - small-business website first-pass audit for CTA, contact, booking, canonical, viewport, and handoff-ready lead-path reports.
-- csv-json-cleanup-pipeline - Python CSV/JSON cleanup pipeline with validation, rejects, dedupe, tests, and Markdown handoff reports.
+- workflow-reliability-check-kit - dependency-free Python workflow run audit with retry, dedupe, error-code, slow-run, tests, and Markdown/JSON handoff output.
 
 ## Proof Format
 
