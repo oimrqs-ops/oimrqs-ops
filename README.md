@@ -50,6 +50,7 @@ These are public, sanitized examples of the kind of handoff I aim to deliver:
 - Dashboard bugfix audit: https://oimrqs-ops.x9kqz.uk/proof/dashboard-bugfix.md
 - Website lead recovery audit: https://oimrqs-ops.x9kqz.uk/proof/website-lead-recovery-audit.md
 - Workflow reliability checklist: https://oimrqs-ops.x9kqz.uk/proof/workflow-reliability-checklist.md
+- Ecommerce data sync triage: https://oimrqs-ops.x9kqz.uk/proof/ecommerce-data-sync-triage.md
 - WordPress/WooCommerce triage: https://oimrqs-ops.x9kqz.uk/proof/wordpress-woocommerce-triage.md
 - Shopify checkout QA: https://oimrqs-ops.x9kqz.uk/proof/shopify-checkout-qa.md
 - API and webhook health check: https://oimrqs-ops.x9kqz.uk/proof/api-health-check.md
