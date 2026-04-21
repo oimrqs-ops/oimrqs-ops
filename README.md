@@ -14,6 +14,8 @@ Portfolio: https://oimrqs-ops.x9kqz.uk/
 - Workana profile: https://www.workana.com/freelancer/90ea65ae4695e805437d668165e4195a
 - PeoplePerHour profile: https://www.peopleperhour.com/freelancer/technology-programming/henrique-marques-automation-qa-workflow-specialist-zxvaxmjm
 - Guru profile: https://www.guru.com/freelancers/oimrqs-ops
+- Guru service: https://www.guru.com/service/pythonjs-automation-qa-cleanup/brazil/sao-paulo/maua/5692204
+- Guru portfolio item: https://www.guru.com/portfolio/workflow-reliability-and-technical-audit-samples/1455131
 
 ## What I Can Take Over
 
@@ -74,4 +76,6 @@ These are public, sanitized examples of the kind of handoff I aim to deliver:
 - Workana: https://www.workana.com/freelancer/90ea65ae4695e805437d668165e4195a
 - PeoplePerHour: https://www.peopleperhour.com/freelancer/technology-programming/henrique-marques-automation-qa-workflow-specialist-zxvaxmjm
 - Guru: https://www.guru.com/freelancers/oimrqs-ops
+- Guru service: https://www.guru.com/service/pythonjs-automation-qa-cleanup/brazil/sao-paulo/maua/5692204
+- Guru portfolio item: https://www.guru.com/portfolio/workflow-reliability-and-technical-audit-samples/1455131
 - Contra: https://contra.com/oimrqs_ops_6jbkiwcu
