@@ -46,6 +46,7 @@ These are public, sanitized examples of the kind of handoff I aim to deliver:
 
 - QA/debug report: https://oimrqs-ops.x9kqz.uk/proof/qa-report.md
 - Apps Script sheet sync: https://oimrqs-ops.x9kqz.uk/proof/sheet-sync.gs
+- Google Sheets automation triage: https://oimrqs-ops.x9kqz.uk/proof/google-sheets-automation-triage.md
 - CRM import QA: https://oimrqs-ops.x9kqz.uk/proof/crm-import-qa.md
 - Dashboard bugfix audit: https://oimrqs-ops.x9kqz.uk/proof/dashboard-bugfix.md
 - Website lead recovery audit: https://oimrqs-ops.x9kqz.uk/proof/website-lead-recovery-audit.md
