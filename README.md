@@ -1,83 +1,62 @@
 # Henrique M. / OIMRQS Ops
 
-Focused technical execution for automation, data workflows, CRM/RevOps import QA, dashboard bugfixes, checkout QA, Agent Ops, and web ops.
+Practical programming work for sites, systems, data, and automations.
 
-I help teams turn blocked technical workflows into reviewable deliverables: Python/JavaScript automation, Apps Script and Google Sheets workflows, CSV/JSON cleanup, CRM import QA, API health checks, dashboard bugfixes, frontend debugging, browser/Playwright validation, website lead recovery audits, workflow reliability checks, and practical handoffs.
+I help turn a messy technical problem into a reviewable first pass: a website or WordPress fix, internal tool, MVP slice, Python/JavaScript script, Google Sheets/Apps Script workflow, CSV/CRM cleanup, dashboard check, API/webhook health pass, automation repair, QA/debug report, or handoff-ready technical review.
 
-Portfolio: https://oimrqs-ops.x9kqz.uk/
-
-## Best public routes
-
-- Portfolio route: https://oimrqs-ops.x9kqz.uk/portfolio/
+- Site: https://oimrqs-ops.x9kqz.uk/
+- Portfolio: https://oimrqs-ops.x9kqz.uk/portfolio/
 - Proof library: https://oimrqs-ops.x9kqz.uk/proof/
 - Public CV: https://oimrqs-ops.x9kqz.uk/cv/
-- Workana profile: https://www.workana.com/freelancer/90ea65ae4695e805437d668165e4195a
-- PeoplePerHour profile (Portfolio 3): https://www.peopleperhour.com/freelancer/technology-programming/henrique-marques-automation-qa-workflow-specialist-zxvaxmjm
-- Guru profile: https://www.guru.com/freelancers/oimrqs-ops
-- Guru service: https://www.guru.com/service/pythonjs-automation-qa-cleanup/brazil/sao-paulo/maua/5692204
-- Guru portfolio item: https://www.guru.com/portfolio/workflow-reliability-and-technical-audit-samples/1455131
 
 ## What I Can Take Over
 
-- workflow/API bugs with clear expected behavior
-- Python/JavaScript scripts, adapters, cleanup passes, and repeatable ops
-- CRM/RevOps import QA for HubSpot, Salesforce, Pipedrive, Airtable, and custom admin imports
-- Google Sheets, Apps Script, CSV, JSON, imports, and exports
-- frontend/dashboard bugs, responsive regressions, chart/table issues, and browser validation
-- QA smoke passes, issue reproduction, and concise reports
-- WordPress, WooCommerce, Shopify, Webflow, and static-site technical fixes
-- website lead-path recovery checks for CTA, contact, booking, language path, and mobile friction
-- workflow reliability checks for webhooks, retries, mapping, dedupe, and operator handoff
-- AI coding workflow / Agent Ops audits for prompts, AGENTS.md, runbooks, and validation gates
+- Web, WordPress, HTML/CSS/JavaScript, responsive bugs, forms, CTAs and lead paths.
+- Internal tools, admin flows, MVP first passes and practical operational utilities.
+- Python and JavaScript scripts for CSV/JSON cleanup, APIs, file processing, imports and exports.
+- Google Sheets, Excel and Apps Script automations with logs, validation and handoff notes.
+- CRM/RevOps import QA: required fields, duplicates, owner gaps, stage mapping and rejected rows.
+- Dashboards and frontend bugfixes: tables, filters, charts, exports, layout and browser evidence.
+- API and webhook health checks: payload shape, status codes, retries, idempotency and diagnostics.
+- Workflow reliability checks for n8n, Make, Zapier, Airtable, CRMs, AI/no-code handoffs and operator visibility.
+- QA/debug reports that make cause, fix, validation and remaining risk easy to review.
 
 ## Public Project Samples
 
-- qa-smoke-report-kit - browser QA smoke checks, console/error capture, overflow checks, screenshots, and Markdown handoff reports.
-- apps-script-sheet-sync - Google Sheets Apps Script sync with duplicate checks, status normalization, and operator logs.
-- api-health-check-kit - dependency-free Python API health checks with JSON plans, timing/status assertions, Markdown/JSON/CSV reports, fixture server, tests, and handoff notes.
-- crm-import-qa-kit - CRM/RevOps CSV import QA with required-field checks, duplicate keys, stage mapping, rejects, JSON summary, tests, and handoff notes.
-- dashboard-bugfix-playbook - dependency-free dashboard audit with before/after fixtures, responsive checks, table/chart handoff notes, and Node tests.
-- website-lead-recovery-check-kit - small-business website first-pass audit for CTA, contact, booking, canonical, viewport, and handoff-ready lead-path reports.
-- workflow-reliability-check-kit - dependency-free Python workflow run audit with retry, dedupe, error-code, slow-run, tests, and Markdown/JSON handoff output.
+- `qa-smoke-report-kit` - browser QA smoke checks, console/error capture, overflow checks and Markdown handoff reports.
+- `apps-script-sheet-sync` - Google Sheets Apps Script sync with duplicate checks, status normalization and operator logs.
+- `api-health-check-kit` - dependency-free Python API checks with JSON plans, timing/status assertions, reports, fixture server and tests.
+- `crm-import-qa-kit` - CRM/RevOps CSV import QA with required fields, duplicates, stage mapping, rejected rows and reports.
+- `dashboard-bugfix-playbook` - dashboard/frontend audit with fixtures, responsive checks, table/chart handoff notes and Node tests.
+- `website-lead-recovery-check-kit` - first-pass website lead-path review for CTA, contact, booking, viewport and handoff-ready reports.
+- `workflow-reliability-check-kit` - workflow run audit for retries, dedupe, error codes, slow runs and Markdown/JSON handoff output.
 
-## Proof Format
+## Proof Routes
 
-These are public, sanitized examples of the kind of handoff I aim to deliver:
-
-- QA/debug report: https://oimrqs-ops.x9kqz.uk/proof/qa-report.md
-- Apps Script sheet sync: https://oimrqs-ops.x9kqz.uk/proof/sheet-sync.gs
-- Google Sheets automation triage: https://oimrqs-ops.x9kqz.uk/proof/google-sheets-automation-triage.md
-- CRM import QA: https://oimrqs-ops.x9kqz.uk/proof/crm-import-qa.md
-- Dashboard bugfix audit: https://oimrqs-ops.x9kqz.uk/proof/dashboard-bugfix.md
-- Website lead recovery audit: https://oimrqs-ops.x9kqz.uk/proof/website-lead-recovery-audit.md
-- Workflow reliability checklist: https://oimrqs-ops.x9kqz.uk/proof/workflow-reliability-checklist.md
-- Ecommerce data sync triage: https://oimrqs-ops.x9kqz.uk/proof/ecommerce-data-sync-triage.md
-- WordPress/WooCommerce triage: https://oimrqs-ops.x9kqz.uk/proof/wordpress-woocommerce-triage.md
-- Shopify checkout QA: https://oimrqs-ops.x9kqz.uk/proof/shopify-checkout-qa.md
-- API and webhook health check: https://oimrqs-ops.x9kqz.uk/proof/api-health-check.md
-- FastAPI/Playwright adapter: https://oimrqs-ops.x9kqz.uk/proof/adapter.py
-- JavaScript calculator/embed: https://oimrqs-ops.x9kqz.uk/proof/calculator.js
-- Data cleanup handoff: https://oimrqs-ops.x9kqz.uk/proof/cleanup.txt
-- Agent Ops audit: https://oimrqs-ops.x9kqz.uk/proof/agent-ops-audit.md
-
-## Working Style
-
-- first pass is focused, reviewable, and usually structured as a 1-day delivery slice
-- if the full project is larger, I start with the highest-leverage diagnostic, fix, or handoff artifact
-- prefer sample data, staging URLs, exported files, screenshots, logs, or minimal reproductions
-- deliver a working script, patch, workbook, prototype, or concise report with validation steps
-- avoid unnecessary production credentials
-- leave a short handoff note: input, task, deliverable, check, and remaining risk
-
-## Links
-
-- Website: https://oimrqs-ops.x9kqz.uk/
 - Portfolio route: https://oimrqs-ops.x9kqz.uk/portfolio/
 - Proof library: https://oimrqs-ops.x9kqz.uk/proof/
 - Public CV: https://oimrqs-ops.x9kqz.uk/cv/
+- API and webhook health check: https://oimrqs-ops.x9kqz.uk/proof/api-health-check.md
+- CRM import QA: https://oimrqs-ops.x9kqz.uk/proof/crm-import-qa.md
+- Dashboard bugfix audit: https://oimrqs-ops.x9kqz.uk/proof/dashboard-bugfix.md
+- Google Sheets automation triage: https://oimrqs-ops.x9kqz.uk/proof/google-sheets-automation-triage.md
+- Website lead recovery audit: https://oimrqs-ops.x9kqz.uk/proof/website-lead-recovery-audit.md
+- Workflow reliability checklist: https://oimrqs-ops.x9kqz.uk/proof/workflow-reliability-checklist.md
+- WordPress/WooCommerce triage: https://oimrqs-ops.x9kqz.uk/proof/wordpress-woocommerce-triage.md
+- Small-site security hygiene packet: https://oimrqs-ops.x9kqz.uk/proof/small-site-security-hygiene-packet.md
+
+## Working Style
+
+- Start from one clear problem, file, URL, repo, sample dataset, export, endpoint, screenshot or reproduction.
+- Keep the first pass focused enough to validate.
+- Prefer sample/staging data before production access.
+- Deliver a patch, script, workbook, prototype, audit or report with a concrete acceptance check.
+- Leave a short handoff: input, task, deliverable, check and remaining risk.
+- If the work originates on a marketplace, scope and payment stay inside that platform.
+
+## Active Public Surfaces
+
+- Website: https://oimrqs-ops.x9kqz.uk/
+- GitHub: https://github.com/oimrqs-ops
+- 99Freelas: https://www.99freelas.com.br/user/oimrqs-ops
 - Workana: https://www.workana.com/freelancer/90ea65ae4695e805437d668165e4195a
-- PeoplePerHour (Portfolio 3): https://www.peopleperhour.com/freelancer/technology-programming/henrique-marques-automation-qa-workflow-specialist-zxvaxmjm
-- Guru: https://www.guru.com/freelancers/oimrqs-ops
-- Guru service: https://www.guru.com/service/pythonjs-automation-qa-cleanup/brazil/sao-paulo/maua/5692204
-- Guru portfolio item: https://www.guru.com/portfolio/workflow-reliability-and-technical-audit-samples/1455131
-- Contra: https://contra.com/oimrqs_ops_6jbkiwcu
