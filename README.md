@@ -1,4 +1,4 @@
-# Henrique M. / OIMRQS Ops
+# Henrique M. / oimrqs ops
 
 Practical programming work for sites, systems, data, and automations.
 
