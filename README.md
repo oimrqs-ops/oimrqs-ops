@@ -1,13 +1,20 @@
 # Henrique M. / oimrqs ops
 
-Practical programming work for sites, systems, data, and automations.
+Scoped technical delivery for web, WordPress, automations, data, APIs, dashboards, AI workflow wiring and no-code launch QA.
 
-I help turn a messy technical problem into a reviewable first pass: a website or WordPress fix, internal tool, MVP slice, Python/JavaScript script, Google Sheets/Apps Script workflow, CSV/CRM cleanup, dashboard check, API/webhook health pass, automation repair, QA/debug report, or handoff-ready technical review.
+I turn messy technical asks into a reviewable first pass: the fix, workflow, dashboard, integration, QA packet, launch handoff or focused script, plus the checks a buyer can inspect before the scope grows.
 
 - Site: https://oimrqs-ops.x9kqz.uk/
 - Portfolio: https://oimrqs-ops.x9kqz.uk/portfolio/
 - Proof library: https://oimrqs-ops.x9kqz.uk/proof/
 - Public CV: https://oimrqs-ops.x9kqz.uk/cv/
+
+## Buyer Outcomes
+
+- Web / WordPress rescue pass: broken forms, checkout/booking paths, responsive issues, CTAs, plugin conflicts, staging checks and launch QA.
+- Automation reliability pass: n8n, Make, Zapier, webhook, CRM routing, WhatsApp-safe flows, retries, duplicate handling, logs and dry-run review.
+- Data / dashboard trust pass: CSV/Excel cleanup, CRM import QA, store/report mismatches, rejected rows, before/after counts and KPI sanity checks.
+- AI / no-code launch pass: Base44, Lovable, Supabase, OpenAI/Anthropic wiring, prompt workflow, fallback, approval step, app QA and launch readiness.
 
 ## What I Can Take Over
 
@@ -15,6 +22,8 @@ I help turn a messy technical problem into a reviewable first pass: a website or
 - Internal tools, admin flows, MVP first passes and practical operational utilities.
 - Python and JavaScript scripts for CSV/JSON cleanup, APIs, file processing, imports and exports.
 - Google Sheets, Excel and Apps Script automations with logs, validation and handoff notes.
+- Base44/no-code app QA and launch passes where the goal is to stabilize flows, catch missing states and define acceptance checks.
+- AI workflow wiring with approved inputs, model calls, fallbacks, logs, dry-runs and human review points.
 - CRM/RevOps import QA: required fields, duplicates, owner gaps, stage mapping and rejected rows.
 - Dashboards and frontend bugfixes: tables, filters, charts, exports, layout and browser evidence.
 - API and webhook health checks: payload shape, status codes, retries, idempotency and diagnostics.
@@ -53,6 +62,13 @@ I help turn a messy technical problem into a reviewable first pass: a website or
 - Deliver a patch, script, workbook, prototype, audit or report with a concrete acceptance check.
 - Leave a short handoff: input, task, deliverable, check and remaining risk.
 - If the work originates on a marketplace, scope and payment stay inside that platform.
+
+## Trust Boundaries
+
+- No fake client names, fake reviews, fake case studies or inflated certification claims.
+- No CAPTCHA bypass, hidden scraping, credential reuse, KYC, payout, billing, security or platform-abuse work.
+- No WhatsApp/phone dependency or off-platform payment push for marketplace work.
+- Proof assets are sanitized samples, public kits or buyer-specific PDFs/demos. Generic mismatched demos are avoided because they reduce trust.
 
 ## Active Public Surfaces
 
