@@ -9,6 +9,15 @@ I turn messy technical asks into a reviewable first pass: the fix, workflow, das
 - Proof library: https://oimrqs-ops.x9kqz.uk/proof/
 - Public CV: https://oimrqs-ops.x9kqz.uk/cv/
 
+## Problem-Shaped Proof Paths
+
+If a buyer is checking whether the work maps to their current failure mode, start here:
+
+- WordPress form and booking rescue: https://oimrqs-ops.x9kqz.uk/EXEMPLO-WP-FORM-BOOKING-RESCUE/
+- Workflow reliability rescue: https://oimrqs-ops.x9kqz.uk/EXEMPLO-WORKFLOW-RELIABILITY-RESCUE/
+- Shopify / WooCommerce checkout QA: https://oimrqs-ops.x9kqz.uk/EXEMPLO-CHECKOUT-QA-RESCUE/
+- AppSheet / HOA community ops demo: https://oimrqs-ops.x9kqz.uk/EXEMPLO-APPSHEET-HOA-OPS/
+
 ## Buyer Outcomes
 
 - Web / WordPress rescue pass: broken forms, checkout/booking paths, responsive issues, CTAs, plugin conflicts, staging checks and launch QA.
@@ -45,6 +54,10 @@ I turn messy technical asks into a reviewable first pass: the fix, workflow, das
 - Portfolio route: https://oimrqs-ops.x9kqz.uk/portfolio/
 - Proof library: https://oimrqs-ops.x9kqz.uk/proof/
 - Public CV: https://oimrqs-ops.x9kqz.uk/cv/
+- WordPress form and booking rescue: https://oimrqs-ops.x9kqz.uk/EXEMPLO-WP-FORM-BOOKING-RESCUE/
+- Workflow reliability rescue: https://oimrqs-ops.x9kqz.uk/EXEMPLO-WORKFLOW-RELIABILITY-RESCUE/
+- Shopify / WooCommerce checkout QA: https://oimrqs-ops.x9kqz.uk/EXEMPLO-CHECKOUT-QA-RESCUE/
+- AppSheet / HOA community ops demo: https://oimrqs-ops.x9kqz.uk/EXEMPLO-APPSHEET-HOA-OPS/
 - API and webhook health check: https://oimrqs-ops.x9kqz.uk/proof/api-health-check.md
 - CRM import QA: https://oimrqs-ops.x9kqz.uk/proof/crm-import-qa.md
 - Dashboard bugfix audit: https://oimrqs-ops.x9kqz.uk/proof/dashboard-bugfix.md
