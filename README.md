@@ -17,6 +17,7 @@ If a buyer is checking whether the work maps to their current failure mode, star
 - Workflow reliability rescue: https://oimrqs-ops.x9kqz.uk/EXEMPLO-WORKFLOW-RELIABILITY-RESCUE/
 - Shopify / WooCommerce checkout QA: https://oimrqs-ops.x9kqz.uk/EXEMPLO-CHECKOUT-QA-RESCUE/
 - AppSheet / HOA community ops demo: https://oimrqs-ops.x9kqz.uk/EXEMPLO-APPSHEET-HOA-OPS/
+- React Native / Expo MVP architecture proof: https://oimrqs-ops.x9kqz.uk/EXEMPLO-REACT-NATIVE-EXPO-MVP/
 
 ## Buyer Outcomes
 
@@ -24,6 +25,7 @@ If a buyer is checking whether the work maps to their current failure mode, star
 - Automation reliability pass: n8n, Make, Zapier, webhook, CRM routing, WhatsApp-safe flows, retries, duplicate handling, logs and dry-run review.
 - Data / dashboard trust pass: CSV/Excel cleanup, CRM import QA, store/report mismatches, rejected rows, before/after counts and KPI sanity checks.
 - AI / no-code launch pass: Base44, Lovable, Supabase, OpenAI/Anthropic wiring, prompt workflow, fallback, approval step, app QA and launch readiness.
+- Mobile MVP first pass: React Native / Expo app architecture, role-based flows, API/data layer, offline-safe state, loading/error/empty states and iOS/Android acceptance checks.
 
 ## What I Can Take Over
 
@@ -32,6 +34,7 @@ If a buyer is checking whether the work maps to their current failure mode, star
 - Python and JavaScript scripts for CSV/JSON cleanup, APIs, file processing, imports and exports.
 - Google Sheets, Excel and Apps Script automations with logs, validation and handoff notes.
 - Base44/no-code app QA and launch passes where the goal is to stabilize flows, catch missing states and define acceptance checks.
+- React Native / Expo MVP architecture and first-sprint scaffolding for marketplace/service apps with consumer, provider and support/admin roles.
 - AI workflow wiring with approved inputs, model calls, fallbacks, logs, dry-runs and human review points.
 - CRM/RevOps import QA: required fields, duplicates, owner gaps, stage mapping and rejected rows.
 - Dashboards and frontend bugfixes: tables, filters, charts, exports, layout and browser evidence.
@@ -58,6 +61,7 @@ If a buyer is checking whether the work maps to their current failure mode, star
 - Workflow reliability rescue: https://oimrqs-ops.x9kqz.uk/EXEMPLO-WORKFLOW-RELIABILITY-RESCUE/
 - Shopify / WooCommerce checkout QA: https://oimrqs-ops.x9kqz.uk/EXEMPLO-CHECKOUT-QA-RESCUE/
 - AppSheet / HOA community ops demo: https://oimrqs-ops.x9kqz.uk/EXEMPLO-APPSHEET-HOA-OPS/
+- React Native / Expo MVP architecture proof: https://oimrqs-ops.x9kqz.uk/EXEMPLO-REACT-NATIVE-EXPO-MVP/
 - API and webhook health check: https://oimrqs-ops.x9kqz.uk/proof/api-health-check.md
 - CRM import QA: https://oimrqs-ops.x9kqz.uk/proof/crm-import-qa.md
 - Dashboard bugfix audit: https://oimrqs-ops.x9kqz.uk/proof/dashboard-bugfix.md
