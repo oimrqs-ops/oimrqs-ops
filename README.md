@@ -19,6 +19,7 @@ If a buyer is checking whether the work maps to their current failure mode, star
 - AppSheet / HOA community ops demo: https://oimrqs-ops.x9kqz.uk/EXEMPLO-APPSHEET-HOA-OPS/
 - React Native / Expo MVP architecture proof: https://oimrqs-ops.x9kqz.uk/EXEMPLO-REACT-NATIVE-EXPO-MVP/
 - Sheets / CRM reporting repair: https://oimrqs-ops.x9kqz.uk/EXEMPLO-SHEETS-CRM-REPORTING-REPAIR/
+- Public website revenue-leak audit: https://oimrqs-ops.x9kqz.uk/EXEMPLO-WEBSITE-REVENUE-LEAK-AUDIT/
 
 ## Buyer Outcomes
 
@@ -64,11 +65,11 @@ If a buyer is checking whether the work maps to their current failure mode, star
 - AppSheet / HOA community ops demo: https://oimrqs-ops.x9kqz.uk/EXEMPLO-APPSHEET-HOA-OPS/
 - React Native / Expo MVP architecture proof: https://oimrqs-ops.x9kqz.uk/EXEMPLO-REACT-NATIVE-EXPO-MVP/
 - Sheets / CRM reporting repair: https://oimrqs-ops.x9kqz.uk/EXEMPLO-SHEETS-CRM-REPORTING-REPAIR/
+- Public website revenue-leak audit: https://oimrqs-ops.x9kqz.uk/EXEMPLO-WEBSITE-REVENUE-LEAK-AUDIT/
 - API and webhook health check: https://oimrqs-ops.x9kqz.uk/proof/api-health-check.md
 - CRM import QA: https://oimrqs-ops.x9kqz.uk/proof/crm-import-qa.md
 - Dashboard bugfix audit: https://oimrqs-ops.x9kqz.uk/proof/dashboard-bugfix.md
 - Google Sheets automation triage: https://oimrqs-ops.x9kqz.uk/proof/google-sheets-automation-triage.md
-- Website lead recovery audit: https://oimrqs-ops.x9kqz.uk/proof/website-lead-recovery-audit.md
 - Workflow reliability checklist: https://oimrqs-ops.x9kqz.uk/proof/workflow-reliability-checklist.md
 - WordPress/WooCommerce triage: https://oimrqs-ops.x9kqz.uk/proof/wordpress-woocommerce-triage.md
 - Small-site security hygiene packet: https://oimrqs-ops.x9kqz.uk/proof/small-site-security-hygiene-packet.md
