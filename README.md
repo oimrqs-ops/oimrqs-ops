@@ -18,6 +18,7 @@ If a buyer is checking whether the work maps to their current failure mode, star
 - Shopify / WooCommerce checkout QA: https://oimrqs-ops.x9kqz.uk/EXEMPLO-CHECKOUT-QA-RESCUE/
 - AppSheet / HOA community ops demo: https://oimrqs-ops.x9kqz.uk/EXEMPLO-APPSHEET-HOA-OPS/
 - React Native / Expo MVP architecture proof: https://oimrqs-ops.x9kqz.uk/EXEMPLO-REACT-NATIVE-EXPO-MVP/
+- Sheets / CRM reporting repair: https://oimrqs-ops.x9kqz.uk/EXEMPLO-SHEETS-CRM-REPORTING-REPAIR/
 
 ## Buyer Outcomes
 
@@ -62,6 +63,7 @@ If a buyer is checking whether the work maps to their current failure mode, star
 - Shopify / WooCommerce checkout QA: https://oimrqs-ops.x9kqz.uk/EXEMPLO-CHECKOUT-QA-RESCUE/
 - AppSheet / HOA community ops demo: https://oimrqs-ops.x9kqz.uk/EXEMPLO-APPSHEET-HOA-OPS/
 - React Native / Expo MVP architecture proof: https://oimrqs-ops.x9kqz.uk/EXEMPLO-REACT-NATIVE-EXPO-MVP/
+- Sheets / CRM reporting repair: https://oimrqs-ops.x9kqz.uk/EXEMPLO-SHEETS-CRM-REPORTING-REPAIR/
 - API and webhook health check: https://oimrqs-ops.x9kqz.uk/proof/api-health-check.md
 - CRM import QA: https://oimrqs-ops.x9kqz.uk/proof/crm-import-qa.md
 - Dashboard bugfix audit: https://oimrqs-ops.x9kqz.uk/proof/dashboard-bugfix.md
