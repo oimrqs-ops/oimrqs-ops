@@ -6,6 +6,7 @@ I turn messy technical asks into a reviewable first pass: the fix, workflow, das
 
 - Site: https://oimrqs-ops.x9kqz.uk/
 - Portfolio: https://oimrqs-ops.x9kqz.uk/portfolio/
+- Curated examples / proof picker: https://oimrqs-ops.x9kqz.uk/examples/
 - Proof library: https://oimrqs-ops.x9kqz.uk/proof/
 - Public CV: https://oimrqs-ops.x9kqz.uk/cv/
 
@@ -13,6 +14,7 @@ I turn messy technical asks into a reviewable first pass: the fix, workflow, das
 
 If a buyer is checking whether the work maps to their current failure mode, start here:
 
+- Buyer proof picker for profile fields: https://oimrqs-ops.x9kqz.uk/examples/
 - WordPress form and booking rescue: https://oimrqs-ops.x9kqz.uk/EXEMPLO-WP-FORM-BOOKING-RESCUE/
 - Workflow reliability rescue: https://oimrqs-ops.x9kqz.uk/EXEMPLO-WORKFLOW-RELIABILITY-RESCUE/
 - Shopify / WooCommerce checkout QA: https://oimrqs-ops.x9kqz.uk/EXEMPLO-CHECKOUT-QA-RESCUE/
@@ -57,6 +59,7 @@ If a buyer is checking whether the work maps to their current failure mode, star
 ## Proof Routes
 
 - Portfolio route: https://oimrqs-ops.x9kqz.uk/portfolio/
+- Curated examples / proof picker: https://oimrqs-ops.x9kqz.uk/examples/
 - Proof library: https://oimrqs-ops.x9kqz.uk/proof/
 - Public CV: https://oimrqs-ops.x9kqz.uk/cv/
 - WordPress form and booking rescue: https://oimrqs-ops.x9kqz.uk/EXEMPLO-WP-FORM-BOOKING-RESCUE/
