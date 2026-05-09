@@ -1,14 +1,21 @@
 # Henrique M. / oimrqs ops
 
-Scoped technical delivery for web, WordPress, automations, data, APIs, dashboards, AI workflow wiring and no-code launch QA.
+Web, WordPress, automations, data, APIs, dashboards, AI workflow wiring, no-code QA and MVP first passes from diagnosis to tested handoff.
 
-I turn messy technical asks into a reviewable first pass: the fix, workflow, dashboard, integration, QA packet, launch handoff or focused script, plus the checks a buyer can inspect before the scope grows.
+I take ownership of messy technical asks: clarify the success path, build the usable slice, test the real flow and leave evidence a buyer can inspect before the scope grows.
 
 - Site: https://oimrqs-ops.x9kqz.uk/
 - Portfolio: https://oimrqs-ops.x9kqz.uk/portfolio/
 - Curated examples / proof picker: https://oimrqs-ops.x9kqz.uk/examples/
 - Proof library: https://oimrqs-ops.x9kqz.uk/proof/
 - Public CV: https://oimrqs-ops.x9kqz.uk/cv/
+
+## Buyer Confidence Checks
+
+- Can I take over an unclear request and make it workable? Start with the proof picker and the problem-shaped proof paths.
+- Can I implement, not just describe? The public kits show fixtures, scripts, reports, validation criteria and handoff notes.
+- Can a non-technical buyer understand what they are buying? The portfolio routes translate the work into outcomes, acceptance checks and visible risk.
+- Can a marketplace buyer trust the boundary? If the work starts on 99Freelas or Workana, scope, files and payment stay on that platform.
 
 ## Problem-Shaped Proof Paths
 
